@@ -18,7 +18,6 @@
 <div align="left">
 
 <h3 align="left">
-<h3 align="left">Ссылки на ресурсы:</Ссылки на ресурсы:</hh33>>
 <div align="left">
 <a href="https://leetcode.com/u/MrHans1/" target="_blank"><a href="https://leetcode.com/u/MrHans1/" target="_blank">
 </a></a>
@@ -30,19 +29,19 @@
 <div align="left">
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" /><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
 <img width="12" /><img width="12" />
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="Torch height="40" alt="Torch logo" />logo" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="Torch height="40" alt="Torch logo" />
 <img width="12" /><img width="12" />
 <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" /><img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" />
 <img width="12" /><img width="12" />
-<img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas logo" <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas logo" />/>
-<img <img width="12" />width="12" />
+<img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas logo" <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas logo"/>
+<img <img width="12"/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL logo" /><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL logo" />
 <img width="12" /><img width="12" />
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />/>
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"/>
 <img width="12" /><img width="12" />
 <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS logo" /><img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS logo" />
 <img width="12" /><img width="12" />
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML lo<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML logo" go" />/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML lo<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML logo" go"/>
 <img width="12" /><img width="12" />
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux logo" /><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux logo" />
 </div>
