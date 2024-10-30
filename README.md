@@ -1,10 +1,10 @@
 <div align="center">
 <img height="300" width="600" src="https://img.freepik.com/premium-photo/streaming-room-with-purple-lights-two-monitors_343960-9381.jpg" />
 </div>
-###
+
 <h1 align="center">Здравсвуй.
 Меня зовут Алексей</ h 1
-###
+
 <div align="center">
 <a href="https://t.me/aktov20" target="_
 <img
@@ -22,14 +22,13 @@ blue?logo=mail.ru&logoColor=white&style=for the badge" height="25" alt="Mail.ru
 logo" />
 </
 </div>
-###
+
 <h3 align="left">
 Обо мне</ h 3
 <p align="left">Мне
 21 год, и я начинающий Data Scientist. Сейчас учусь в бакалавриате
 СПбГУП по направлению "Прикладная математика". Сейчас делаю первые шаги в веб--разработке, и все мои работы можно найти в моем GitHub профиле.</p>
 
-###
 <h3 align="left">
 <h3 align="left">Ссылки на ресурсы:</Ссылки на ресурсы:</hh33>>
 <div align="left">
@@ -40,7 +39,7 @@ logo" />
 </div>
 </div>
 <h3 align="left">
-<h3 align="left">👋 Технологии:</Технологии:</hh33>>
+<h3 align="left">Технологии:</Технологии:</hh33>>
 <div align="left">
 <div align="left">
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" /><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
@@ -64,5 +63,3 @@ logo" />
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux logo" /><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux logo" />
 </div>
 </div>
-###
-###
